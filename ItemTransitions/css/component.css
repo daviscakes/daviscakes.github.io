@@ -106,7 +106,7 @@
 	overflow: hidden;
 	text-align: center;
 	line-height: 200px;
-	top: 50%;
+	top: 10%;
 	-webkit-transform: translateY(-50%);
 	transform: translateY(-50%);
 	z-index: 200;
