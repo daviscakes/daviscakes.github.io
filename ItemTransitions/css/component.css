@@ -106,10 +106,9 @@
 	overflow: hidden;
 	text-align: center;
 	line-height: 200px;
-	top: 10%;
+	top: 50%;
 	-webkit-transform: translateY(-50%);
 	transform: translateY(-50%);
-	z-index: 200;
 }
 
 .component-small nav a.prev,
