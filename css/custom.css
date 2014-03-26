@@ -9,5 +9,9 @@
 }
 
 .jumbotron .container {
-	padding: 30em 0 30em 0;
+	padding: 4em 0 4em 0;
+}
+
+#phone {
+	float: right;
 }
