@@ -15,3 +15,7 @@
 #phone {
 	float: right;
 }
+
+.container .row {
+	margin-top: 1em;
+}
